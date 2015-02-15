@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+*{
+	margin: 0 auto;
+}
+.me-header{
+	background-image: url('../img/2.jpg') !important;
+	position: relative;
+	z-index: -1;
+}
+.me-header, .me-footer{
+	text-align: center;
+	height: 20em;
+	background: #1A6666;
+	color:#fff;
+	font-family: 'Lobster', cursive;
+	font-variant: initail;
+}
+
+.me-right, .me-left{
+	background: #ffeecc;
+}
+
